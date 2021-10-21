@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-**alpha-coder13/alpha-coder13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -12,5 +9,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
+https://github-profile-trophy.vercel.app/alpha-coder13=ryo-ma&theme=onedark
 
-[![trophy](https://github-profile-trophy.vercel.app/alpha-coder13=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
