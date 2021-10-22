@@ -14,5 +14,9 @@ I am Amardeep Saha a middler in Indian Institute of Information Technology, Ranc
 - ⚡ Fun fact: ...
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=alpha-coder13)](https://github.com/ryo-ma/github-profile-trophy)
+<br>
+<br>
 
+![My stats](https://github-readme-stats.vercel.app/api?username=alpha-coder13&show_icons=true&theme=dracula) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alpha-coder13&layout=compact&langs_count=8)
 
