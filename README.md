@@ -17,6 +17,9 @@ I am Amardeep Saha a middler in Indian Institute of Information Technology, Ranc
 <br>
 <br>
 
-![My stats](https://github-readme-stats.vercel.app/api?username=alpha-coder13&show_icons=true&theme=dracula) 
+### My Github stats:- 
+![My stats](https://github-readme-stats.vercel.app/api?username=alpha-coder13&show_icons=true&theme=dracula)
+
+### My Language Profiency:-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alpha-coder13&layout=compact&langs_count=8)
 
