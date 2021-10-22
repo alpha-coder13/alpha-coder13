@@ -10,9 +10,14 @@ I am Amardeep Saha a middler in Indian Institute of Information Technology, Ranc
 - 📫 How to reach me:<br><p align="center"> <img src="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Linkedin2_svg-128.png" height="30px" width="30px" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </img><img src="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Facebook_svg-128.png" height="30px" width="30px"></img>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </img><img src="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Twitter5_svg-128.png" height="30px" width="30px"></img>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</img><img src="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Instagram_svg-128.png" height="30px" width="30px"></img> </p>
+</img><img src="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Instagram_svg-128.png" height="30px" width="30px"></img>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</img><img src="
+https://cdn4.iconfinder.com/data/icons/social-media-rounded-corners/512/Medium_rounded_cr-128.png" height="30px" width="30px"></img></p>
 - ⚡ Fun fact: ...
 
+
+### My Trophies 
 [![trophy](https://github-profile-trophy.vercel.app/?username=alpha-coder13)](https://github.com/ryo-ma/github-profile-trophy)
 <br>
 <br>
@@ -22,4 +27,3 @@ I am Amardeep Saha a middler in Indian Institute of Information Technology, Ranc
 
 ### My Language Profiency:-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alpha-coder13&layout=compact&langs_count=8)
-
