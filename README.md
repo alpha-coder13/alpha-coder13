@@ -1,4 +1,4 @@
-<img src="https://c.tenor.com/-y4CCxiVZE8AAAAC/demon-slayer-kimetsu-no-yaiba.gif" float="right"></img>
+<p float="right"><img src="https://c.tenor.com/-y4CCxiVZE8AAAAC/demon-slayer-kimetsu-no-yaiba.gif" float="right"></img></p>
 ### Hi there 👋
 
 I am Amardeep Saha a middler in Indian Institute of Information Technology, Ranchi.  
