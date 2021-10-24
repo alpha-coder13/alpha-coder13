@@ -7,11 +7,15 @@ I am Amardeep Saha a middler in Indian Institute of Information Technology, Ranc
 - 👯 I’m looking to collaborate on ....
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me:<br><p align="center"> <img src="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Linkedin2_svg-128.png" height="30px" width="30px" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</img><img src="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Facebook_svg-128.png" height="30px" width="30px"></img>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</img><img src="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Twitter5_svg-128.png" height="30px" width="30px"></img>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</img><img src="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Instagram_svg-128.png" height="30px" width="30px"></img>
+- 📫 How to reach me:<br><p align="center"> 
+<a href="www.linkedin.com/in/amardeep-saha-08b67a193"><img src="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Linkedin2_svg-128.png" height="30px" width="30px" ></a></img>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Facebook_svg-128.png" height="30px" width="30px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+</img><img src="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Twitter5_svg-128.png" height="30px" width="30px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+</img><img src="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Instagram_svg-128.png" height="30px" width="30px">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 </img><img src="https://cdn4.iconfinder.com/data/icons/social-media-rounded-corners/512/Medium_rounded_cr-128.png" height="30px" width="30px"></img></p>
 - ⚡ Fun fact: ...
 
