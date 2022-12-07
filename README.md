@@ -1,7 +1,7 @@
 <img align="right" src="https://c.tenor.com/-y4CCxiVZE8AAAAC/demon-slayer-kimetsu-no-yaiba.gif" height="120px" width="210px"></img>
 ### Hi there 👋
 
-I am Amardeep Saha a middler in Indian Institute of Information Technology, Ranchi.  
+I am Amardeep Saha a senior in Indian Institute of Information Technology, Ranchi.  
 
 - 🌱 I’m currently learning **Blockchain and Dapps Development**
 <!--- 👯 I’m looking to collaborate on any **blockchain or dapp related projects**
