@@ -3,7 +3,7 @@
 
 I am Amardeep Saha a senior in Indian Institute of Information Technology, Ranchi.  
 
-- 🌱 I’m currently learning **Blockchain and Dapps Development**
+- 🌱 I’m currently learning **Anything and everything I am comming across**
 <!--- 👯 I’m looking to collaborate on any **blockchain or dapp related projects**
 - 🤔 I’m looking for help with **p2p networking protocols and various transaction methods**-->
 - 💬 Ask me about what do I like to do during when I am bored!
